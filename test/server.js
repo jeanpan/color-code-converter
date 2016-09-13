@@ -3,7 +3,7 @@
 var expect  = require("chai").expect;
 var request = require("request");
 
-const HOST_NAME = 'http://localhost:3000/';
+const HOST_NAME = 'https://color-code-converter.herokuapp.com/';
 
 describe("Color Code Converter API", function() {
 
