@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node app/server.js",
     "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "author": "",
